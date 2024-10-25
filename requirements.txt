@@ -1,0 +1,5 @@
+streamlit  # For displaying in webchrome
+pandas  # If you plan to use pandas for data manipulation
+numpy   # If you need numerical computations
+matplotlib  # If visualization is required
+seaborn  # If visualization is required
